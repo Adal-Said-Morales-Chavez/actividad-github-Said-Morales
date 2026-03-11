@@ -1,0 +1,7 @@
+Nombre: Adal Said Morales Chavez
+
+Fecha: 10/03/2026
+
+Objetivo de la actividad: Crear y clonar un repositorio, usar ramas y pull request
+
+Que es un Pull Request: es una solicitud para integrar cambios de una rama a otra dentro de un repositorio
