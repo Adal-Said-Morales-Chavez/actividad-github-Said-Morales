@@ -1,3 +1,4 @@
 Proyecto: Git Conflicts
+Responsable: EQUIPO-A
 Responsable: EQUIPO-B
 Version: 1.0
